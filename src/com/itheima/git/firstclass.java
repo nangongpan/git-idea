@@ -9,4 +9,9 @@ public class firstclass {
         System.out.println("你好啊ddd");
     }
 
+    public void test1() {
+        int i = 0;
+        i += 10;
+    }
+
 }
